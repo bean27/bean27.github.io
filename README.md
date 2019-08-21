@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8"
-<title></title>
+<title>Page Title</title>
 </head>
 <style>
     body {
@@ -104,24 +103,6 @@ text-align: center;
 </p>
 
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
